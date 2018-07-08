@@ -4,5 +4,7 @@
 > -- [Windows Defender Security Intelligence Worm:VBS/Jenxcus](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Worm:VBS/Jenxcus)
 
 In Windows 7/8/10, the virus is killed by Windows Defender. However, Windows XP systems usually get infected and spread it into portable disk. 
+
 Sometimes all files on your portable disk or even PC becomes shortcut due to infection by this computer virus, do not worry.
+
 The only thing you should do is to download the python file, specify the drive that needs to recover, and then wait for a minute:)
